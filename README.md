@@ -20,7 +20,7 @@ Our final dataSet included information on userId, movieId, rating, title, genres
 2. Demonstrate model predicability with Singular Value Decomposition (SVD)
 3. Draw conclusions based on our data and model results.
 
-<img src="https://github.com/adinas94/Phase4Project/blob/main/Images/Screen%20Shot%202021-01-28%20at%203.54.51%20PM.png" alt="alt text" width="350" height="400"> <img src="https://github.com/adinas94/Phase4Project/blob/main/Images/Screen%20Shot%202021-01-28%20at%203.55.29%20PM.png" alt="alt text" width="500" height="400">
+<img src="https://github.com/adinas94/Phase4Project/blob/main/Images/Screen%20Shot%202021-01-28%20at%203.54.51%20PM.png" alt="alt text" width="350" height="400"> <img src="https://github.com/adinas94/Phase4Project/blob/main/Images/Screen%20Shot%202021-01-28%20at%203.55.29%20PM.png" alt="alt text" width="400" height="300">
 
 
 ### Exploratory Data Analysis and Post-Modeling
