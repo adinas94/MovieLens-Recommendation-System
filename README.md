@@ -50,4 +50,4 @@ Our model is a purely collaborative filtering model, and therefore does not addr
 Our future work would: look to incorporate aspects of a content based filtering model to address this, specifically through the use of LightFm 
 Incorporation of features, such as genres and year, into our matrix factorization models 
 
-Finally, you can access the blog post that was inspired from this project by clicking here: https://adinasteinman.medium.com/building-a-collaborative-filtering-recommendation-system-in-surprise-91312f8cbbc6 
+Finally, you can access the blog post that was inspired from this project by clicking [here](https://adinasteinman.medium.com/building-a-collaborative-filtering-recommendation-system-in-surprise-91312f8cbbc6). 
